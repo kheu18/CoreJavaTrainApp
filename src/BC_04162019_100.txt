@@ -1,0 +1,11 @@
+PNR             : BC_04162019_100
+Train no        : 1005
+Train Name	: Brindavan Express
+From      	: Bangalore
+To	        : Chennai
+Travel Date	: Tue Apr 16 22:35:06 EDT 2019
+
+Passenger:
+Name			Age			Gender			Fare			
+
+Total Price : 0.0
